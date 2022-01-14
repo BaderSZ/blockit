@@ -11,8 +11,15 @@ In case you don't want to download and run a bash script from a stranger, you co
 ! Block the homepage
 ||reddit.com
 
-! Allow my select subreddits.
+! Allow my subdomains.
 @@||mod.reddit.com
+@@||gql.reddit.com
+@@||gql-realtime.reddit.com
+@@||oauth.reddit.com
+@@||meta-api.reddit.com
+@@||reddit.com/prefs
+
+! Allow my select subreddits.
 @@||reddit.com/r/linux
 !... add yours here
 ```
