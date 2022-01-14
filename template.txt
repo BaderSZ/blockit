@@ -2,7 +2,14 @@
 
 ||reddit.com
 
-! Allow my select subreddits and mod site.
+! Allow necessary subdomains
 
 @@||mod.reddit.com
+@@||gql.reddit.com
+@@||gql-realtime.reddit.com
+@@||oauth.reddit.com
+@@||meta-api.reddit.com
+@@||reddit.com/prefs
+
+! Allow my subreddits
 

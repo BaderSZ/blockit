@@ -7,6 +7,12 @@
 ! Allow my select subreddits.
 
 @@||mod.reddit.com
+@@||gql.reddit.com
+@@||gql-realtime.reddit.com
+@@||oauth.reddit.com
+@@||meta-api.reddit.com
+@@||reddit.com/prefs
+
 @@||reddit.com/r/linux
 @@||reddit.com/r/sysadmin
 @@||reddit.com/r/ProgrammerHumor
