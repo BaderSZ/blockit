@@ -1,0 +1,8 @@
+! Block the homepage
+
+||reddit.com
+
+! Allow my select subreddits and mod site.
+
+@@||mod.reddit.com
+
