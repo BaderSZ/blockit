@@ -1,6 +1,6 @@
 # blockit
 
-Generate a uBlock list allowing a few subreddits, excluding reddit.
+Generate a uBlock list allowing a few subreddits, excluding the homepage.
 
 I'm tired of falling into a irritating rage of browsing echochamber subs that end up pissing me off, so I allowed a few subs of use and blocked the rest.
 I also wrote a script that generates a blocklist for you.
