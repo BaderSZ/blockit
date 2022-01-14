@@ -1,3 +1,12 @@
+! Title: Bader's crappit filter
+! Expires: Never
+! Description: Filters for subreddit
+! Homepage: https://github.com/BaderSZ/blockit
+! Licence: https://github.com/BaderSZ/blockit/blob/master/LICENSE
+! 
+! GitHub issues: https://github.com/BaderSZ/blockit/issues
+! GitHub pull requests: https://github.com/BaderSZ/blockit/pulls
+
 ! Reddit is a waste of time... only allow certain technical or personal subs.
 
 ! Block the homepage
