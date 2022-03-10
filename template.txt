@@ -5,6 +5,8 @@
 ! Allow necessary subdomains
 
 @@||mod.reddit.com
+@@||events.reddit.com
+@@||redditstatic.com
 @@||gql.reddit.com
 @@||gql-realtime.reddit.com
 @@||oauth.reddit.com
