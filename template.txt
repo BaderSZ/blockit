@@ -6,6 +6,7 @@
 
 @@||mod.reddit.com
 @@||events.reddit.com
+@@||reddit.com/login
 @@||redditstatic.com
 @@||gql.reddit.com
 @@||gql-realtime.reddit.com
